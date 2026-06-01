@@ -8,7 +8,6 @@ Building intelligent systems at the intersection of simulation, spatial computin
 
 [![GitHub](https://img.shields.io/badge/GitHub-thorOdinson16-181717?style=for-the-badge&logo=github)](https://github.com/thorOdinson16)
 [![Location](https://img.shields.io/badge/Bengaluru-India-blue?style=for-the-badge)]()
-[![Research](https://img.shields.io/badge/Research-Driven-success?style=for-the-badge)]()
 
 </div>
 
@@ -110,12 +109,6 @@ OpenGL • Three.js • Unity • Gaussian Splats • NeRF
 
 ## GitHub Analytics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thorOdinson16&show_icons=true&theme=github_dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=thorOdinson16&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=thorOdinson16&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thorOdinson16&layout=compact&hide_border=true)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thorOdinson16&layout=compact&theme=github_dark&hide_border=true)
