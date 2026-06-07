@@ -39,4 +39,4 @@ CS undergrad building at the intersection of machine learning, simulation, spati
 - **Indoor Navigation** – Sensor fusion + offline routing (ISDIA 2026)
 - **Astronaut Health Twin** – Physiology + vestibular simulation
 - **KanLM** – 31.6M Kannada GPT‑2 from scratch
-- **TempleThreads** – Production e‑commerce (300+ live products)
+- **TempleThreads** – Production e‑commerce website(300+ live products)
