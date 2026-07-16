@@ -37,7 +37,7 @@ CS undergraduate building across machine learning, simulation, spatial computing
 
 - **[URSA-Net](https://github.com/thorOdinson16/URSA_Net)** – Uncertainty-weighted road damage detection from dashcam + GPS, validated on a 17.7km Bengaluru survey (AVSS 2026)
 - **Indoor Navigation** – Offline sensor-fusion routing for GPS-denied buildings, deployed across a 4-floor university block (ISDIA 2026)
-- **[Astronaut Health Digital Twin](https://github.com/thorOdinson16/astronaut_health_digital_twin)** – Coupled sleep/vestibular/fatigue physiological simulation with Monte Carlo risk analysis
 - **[Motion Capture](https://github.com/thorOdinson16/IMU_Reconstruction_SlimeVR)** – Full-body motion capture from 10 wireless IMU sensors, driving a real-time 3D skeleton over SlimeVR's IK engine
+- **[Astronaut Health Digital Twin](https://github.com/thorOdinson16/astronaut_health_digital_twin)** – Coupled sleep/vestibular/fatigue physiological simulation with Monte Carlo risk analysis
 - **[KanLM](https://github.com/thorOdinson16/KanLM)** – 31.6M-parameter Kannada GPT-2 trained from scratch, with a custom BPE tokenizer
 - **[TempleThreads](https://thetemplethreads.com)** – Live e-commerce platform, 300+ products, real Razorpay transactions, built and operated solo
