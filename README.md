@@ -11,18 +11,18 @@
 
 ## About
 
-CS undergrad building at the intersection of machine learning, simulation, spatial computing, and distributed systems.
+CS undergraduate building across machine learning, simulation, spatial computing and distributed systems.
 
 ## Tech Stack
 
 **Languages**  
-`Python` `TypeScript` `JavaScript` `SQL` `Dart` `C` `HTML/CSS`
+`Python` `TypeScript` `JavaScript` `Kotlin` `SQL` `C++` `Dart` `HTML/CSS`
 
 **AI/ML**  
-`PyTorch` `YOLOv8` `Transformers` `OpenCV` `scikit-learn` `LangGraph` `LlamaIndex`
+`PyTorch` `HuggingFace Transformers` `YOLOv8` `XGBoost` `OpenCV` `scikit-learn` `LangGraph` `LlamaIndex`
 
 **Full Stack**  
-`React` `Next.js` `Flutter` `Tailwind` `Node.js` `Express`
+`React` `Next.js` `FastAPI` `Flutter` `Tailwind` `Node.js` `Express`
 
 **DevOps & Infra**  
 `Docker` `K8s` `Prometheus` `Redis` `Kafka` `RabbitMQ` `GitHub Actions`
@@ -35,8 +35,9 @@ CS undergrad building at the intersection of machine learning, simulation, spati
 
 ## Featured Projects
 
-- **URSA-Net** – CV + uncertainty estimation for road damage (AVSS 2026)
-- **Indoor Navigation** – Sensor fusion + offline routing (ISDIA 2026)
-- **Astronaut Health Twin** – Physiology + vestibular simulation
-- **KanLM** – 31.6M Kannada GPT‑2 from scratch
-- **TempleThreads** – Production e‑commerce website(300+ live products)
+- **[URSA-Net](https://github.com/thorOdinson16/URSA_Net)** – Uncertainty-weighted road damage detection from dashcam + GPS, validated on a 17.7km Bengaluru survey (AVSS 2026)
+- **Indoor Navigation** – Offline sensor-fusion routing for GPS-denied buildings, deployed across a 4-floor university block (ISDIA 2026)
+- **[Astronaut Health Digital Twin](https://github.com/thorOdinson16/astronaut_health_digital_twin)** – Coupled sleep/vestibular/fatigue physiological simulation with Monte Carlo risk analysis
+- **[Motion Capture](https://github.com/thorOdinson16/IMU_Reconstruction_SlimeVR)** – Full-body motion capture from 10 wireless IMU sensors, driving a real-time 3D skeleton over SlimeVR's IK engine
+- **[KanLM](https://github.com/thorOdinson16/KanLM)** – 31.6M-parameter Kannada GPT-2 trained from scratch, with a custom BPE tokenizer
+- **[TempleThreads](https://thetemplethreads.com)** – Live e-commerce platform, 300+ products, real Razorpay transactions, built and operated solo
