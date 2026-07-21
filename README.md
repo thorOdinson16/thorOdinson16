@@ -38,7 +38,7 @@ CS undergraduate building across machine learning, simulation, spatial computing
 | Project | What it does | Stack |
 |---|---|---|
 | **[URSA-Net](https://github.com/thorOdinson16/URSA_Net)** | Uncertainty-weighted road damage detection from dashcam + GPS, validated on a 17.7km Bengaluru survey · *AVSS 2026* | `YOLOv8` `PyTorch` `OpenCV` |
-| **Indoor Navigation** | Offline sensor-fusion routing for GPS-denied buildings, deployed across a 4-floor university block · *ISDIA 2026* | `Kotlin` `EKF` `QGIS` |
+| **[Indoor Navigation](https://appetize.io/app/b_35hhwwpa5hougxc3ngsm7wsax4)** | Offline sensor-fusion routing for GPS-denied buildings, deployed across a 4-floor university block · *ISDIA 2026* | `Kotlin` `EKF` `QGIS` |
 | **[Motion Capture](https://github.com/thorOdinson16/IMUReconstruction_SlimeVR)** | Full-body motion capture from 10 wireless IMU sensors, driving a real-time 3D skeleton over SlimeVR's IK engine | `Kotlin` `ESP-NOW` `Three.js` |
 | **[Astronaut Health Digital Twin](https://github.com/thorOdinson16/astronaut_health_digital_twin)** | Coupled sleep/vestibular/fatigue physiological simulation with Monte Carlo risk analysis | `Python` `FastAPI` `BioGears` |
 | **[KanLM](https://github.com/thorOdinson16/KanLM)** | 31.6M-parameter Kannada GPT-2 trained from scratch, with a custom BPE tokenizer | `PyTorch` `HuggingFace` |
