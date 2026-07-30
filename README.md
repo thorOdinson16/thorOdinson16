@@ -2,7 +2,7 @@
 
 # Abhijna DS
 
-**ML • Digital Twins • CV • Distributed Systems • XR**
+**ML • NLP • CV • Digital Twins • Distributed Systems**
 
 [![GitHub](https://img.shields.io/badge/GitHub-thorOdinson16-181717?style=flat-square&logo=github)](https://github.com/thorOdinson16)
 [![Location](https://img.shields.io/badge/Bengaluru-India-blue?style=flat-square)]()
@@ -11,7 +11,7 @@
 
 ## About
 
-CS undergraduate building across machine learning, simulation, spatial computing and distributed systems.
+Building AI systems across ML, NLP, digital twins, simulation, and distributed infrastructure.
 
 ## Tech Stack
 
@@ -32,6 +32,9 @@ CS undergraduate building across machine learning, simulation, spatial computing
 
 **Simulation & Graphics**  
 `BioGears` `Three.js` `Unity` `OpenGL` `Colmap` `3DGS`
+
+**Speech & Audio**  
+`Whisper` `Librosa` `Sarvam AI` `HuBERT`
 
 ## Featured Projects
 
