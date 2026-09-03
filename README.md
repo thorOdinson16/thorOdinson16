@@ -28,7 +28,7 @@ Building AI systems across ML, NLP, digital twins, simulation, and distributed i
 `Docker` `K8s` `Prometheus` `Redis` `Kafka` `RabbitMQ` `GitHub Actions`
 
 **Databases & Geo**  
-`MongoDB` `PostgreSQL` `Couchbase` `FAISS` `QGIS` `GeoJSON` `MapLibre`
+`MongoDB` `PostgreSQL` `MySQL` `FAISS` `QGIS` `GeoJSON` `MapLibre`
 
 **Simulation & Graphics**  
 `BioGears` `Three.js` `Unity` `OpenGL` `Colmap` `3DGS`
